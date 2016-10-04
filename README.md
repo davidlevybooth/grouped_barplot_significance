@@ -24,6 +24,6 @@ The output is a standard ggplot2 object, that can saved or be further modified b
 
 
 #OUTPUT: 
-![DOC concentrations](img/DOC_plot.png)
+![DOC concentrations](img/DOC_barplot.png)
 
 DOC concentrations between treatments 
