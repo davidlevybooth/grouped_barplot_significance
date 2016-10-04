@@ -8,7 +8,13 @@ Function for R to produce a grouped barplot using ggplot2 showing 1-way ANOVA si
 
 #USAGE: 
 
+Download script and link as source in R script: 
+
+```python
+source("barplot_sig.R")
+
 y_plot <- soil_barplot(y ~ X1 + X2 + X3, data, "title")
+```
 
 Where: 
 
